@@ -17,6 +17,14 @@ itinerary:
 The agents actually talk to each other (via an AutoGen `SelectorGroupChat`),
 not three independent LLM calls stitched together.
 
+## 🎥 Demo
+
+[▶️ Watch the demo](https://github.com/Srijita33/Travel_Weather_Planner_MultiAgentSystem/blob/main/demo_travel.mp4)
+
+## 🏗️ Architecture
+
+![Architecture Diagram](https://github.com/Srijita33/Travel_Weather_Planner_MultiAgentSystem/blob/main/Architecture_Diagram_Travel_Weather_planner.jpeg)
+
 ## Project structure
 
 ```text
