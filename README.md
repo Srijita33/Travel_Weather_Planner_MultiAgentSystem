@@ -1,4 +1,4 @@
-# AI Travel & Weather Planner
+# AI Travel Weather Planner Multi Agent System
 
 A multi-agent AI travel planner built with **Microsoft AutoGen**, **Gemini**,
 **Chainlit**, and the **Open-Meteo** weather API.
